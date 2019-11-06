@@ -1,1 +1,2 @@
 En Github.com, modifica el contenido del archivo de texto que creaste anteriormente y confirma los cambios.
+Intentar modificar github.com con github desktop desde github.com
